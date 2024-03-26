@@ -1,5 +1,5 @@
 # Business Intelligence Presentation Proposal
-![My Smile](C:\Users\Bampet\Pictures\business-intelligence-icon-4.jpg?raw=True)
+![My Smile](https://github.com/Bampet2003/BampetCapstone/blob/main/business-intelligence-icon-4.jpg?raw=True)
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg?raw=True" alt="Sized Rocket" width="25px" height="25px"> Introduction <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg?raw=True" alt="Sized Rocket" width="25px" height="25px">
 - Overview of the business intelligence topic
