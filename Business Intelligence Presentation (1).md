@@ -1,5 +1,5 @@
 # Business Intelligence Presentation Proposal
-![My Smile]https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg?raw=True
+![My Smile](https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg?raw=True)
 
 ## Introduction
 - Overview of the business intelligence topic
