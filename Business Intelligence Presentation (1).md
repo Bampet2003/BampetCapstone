@@ -1,7 +1,7 @@
 # Business Intelligence Presentation Proposal
 ![My Smile](https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg?raw=True)
 
-## Introduction <img src="[url_to_image](https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg" alt="alt_text" width="desired_width" height="desired_height">
+## Introduction <img src="[url_to_image](https://github.com/Bampet2003/BampetCapstone/blob/main/OIP.jpg?raw=True" alt="alt_text" width="desired_width" height="desired_height">
 - Overview of the business intelligence topic
 - Significance of data-driven decision-making
 - Goals of the presentation
