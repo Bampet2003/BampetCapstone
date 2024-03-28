@@ -2,10 +2,10 @@
 
 <img src = https://github.com/Bampet2003/BampetCapstone/blob/main/bi_tech_report1.jpg>
 
-## Introduction
-- Brief overview of the presentation topic
-- Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
-- Objectives of the presentation
+## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Introduction 
+- Overview of equipment failure prediction and machine optimization using machine learning
+- Significance of data-driven decision-making in preventing failure
+- Goals of the presentation is to increase machine reliability and maximising business profit
 
 ## Background
 - Current state of technology in the domain
