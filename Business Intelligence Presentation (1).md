@@ -1,5 +1,5 @@
 # Business Intelligence Presentation Proposal
-<img src="https://github.com/Bampet2003/BampetCapstone/blob/main/Business-Intelligence.png?raw=True" alt="My Smile" width="600" height="150">
+<img src="https://github.com/Bampet2003/BampetCapstone/blob/main/Business-Intelligence.png?raw=True">
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Introduction 
 - Overview of equipment failure prediction and machine optimization using machine learning
