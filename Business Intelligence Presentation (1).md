@@ -7,12 +7,12 @@
 - Goals of the presentation is to increase machine reliability and maximising business profit
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Presentation Candidate
-- Name and professional background
-- Experience with business intelligence tools and methodologies
+- Peter Bamidele, Condition Monitoring Specialist
+- Experience with business intelligence tools and methodologies. Expert in data driven condition monitoring
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Data Selection
 - Criteria for choosing the dataset
-- Potential sources for data acquisition
+- Potential sources for data acquisition - kaggle
 - Relevance of the chosen data to the business domain
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Business Intelligence Techniques Demonstration
