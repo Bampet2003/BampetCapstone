@@ -12,8 +12,9 @@
 - Challenges include data collection and integration from disparate sources, selecting appropriate machine learning algorithms, and deploying predictive models in real-time operational environments. However, these challenges also present opportunities for innovation and improvement in maintenance strategies.
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Presentation Candidate
-- Name and background of the presenter
-- Relevant experience and expertise
+- Peter Bamidele, is an experienced professional with a background in Condition monitoring and manufactiring preventive maintenance.
+- With over 10 years of experience in the business, including proficiency in BI tools and machine learning,
+- I am well-equipped to deliver insights into equipment failure prediction and machine optimization.
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Sample Data Selection
 - Sample data will be selected based on historical maintenance records, sensor data from equipment, and other relevant operational parameters.
