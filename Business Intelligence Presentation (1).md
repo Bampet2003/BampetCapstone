@@ -2,9 +2,9 @@
 <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/business-intelligence.jpg?raw=True" alt="My Smile" width="600" height="150">
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Introduction 
-- Overview of the business intelligence topic
-- Significance of data-driven decision-making
-- Goals of the presentation
+- Overview of equipment failure prediction and machine optimization using machine learning
+- Significance of data-driven decision-making in preventing failure
+- Goals of the presentation is to increase machine reliability and maximising business profit
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Presentation Candidate
 - Name and professional background
