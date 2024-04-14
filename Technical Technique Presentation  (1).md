@@ -1,5 +1,5 @@
-# Technical Technique Presentation Proposal - ![image](https://github.com/Bampet2003/BampetCapstone/assets/149170408/f1f9bab0-0086-4f1e-8a86-eaa5c984117f)
-
+# Technical Technique Presentation Proposal: ![image](https://github.com/Bampet2003/BampetCapstone/assets/149170408/29c2275f-9eba-4e74-b051-e367b693eb4c)
+ 
 
 <img src = https://github.com/Bampet2003/BampetCapstone/blob/main/bi_tech_report1.jpg>
 
