@@ -1,4 +1,5 @@
-# Technical Technique Presentation Proposal
+# Technical Technique Presentation Proposal - Practical use of slicers in Power BI Dashboard![image](https://github.com/Bampet2003/BampetCapstone/assets/149170408/f1f9bab0-0086-4f1e-8a86-eaa5c984117f)
+
 
 <img src = https://github.com/Bampet2003/BampetCapstone/blob/main/bi_tech_report1.jpg>
 
