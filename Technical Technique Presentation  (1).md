@@ -3,38 +3,44 @@
 <img src = https://github.com/Bampet2003/BampetCapstone/blob/main/bi_tech_report1.jpg>
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Introduction 
-- The presentation will focus on equipment failure prediction and machine optimization using machine learning techniques.
-- This technical technique holds significant importance in various industries such as manufacturing, energy, transportation, and more.
-- The objectives of the presentation are to provide insights into the application of machine learning for predictive maintenance, demonstrate the effectiveness of the technique in reducing downtime and improving efficiency, and highlight its potential impact on operational cost savings.
+-	The presentation will focus on the practical use of slicers in Power BI dashboards, demonstrating how this feature enhances data visualization and interactivity.
+-	Slicers are a crucial aspect of Power BI dashboards, allowing users to filter and analyze data dynamically based on specific criteria.
+-	The objectives of the presentation include showcasing the versatility of slicers, illustrating their impact on data exploration and decision-making, and providing practical tips for effective implementation.
+
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Background
-- Currently, industries rely on traditional maintenance practices which are often reactive and costly. Predictive maintenance through machine learning offers a proactive approach by predicting equipment failures before they occur, thereby minimizing unplanned downtime and optimizing machine performance.
-- Challenges include data collection and integration from disparate sources, selecting appropriate machine learning algorithms, and deploying predictive models in real-time operational environments. However, these challenges also present opportunities for innovation and improvement in maintenance strategies.
+-	Slicers have become a standard feature in modern BI tools, including Power BI, due to their ability to empower users with interactive data filtering capabilities.
+-	The current state of technology in data visualization emphasizes the importance of user-friendly interfaces and intuitive navigation, making slicers a valuable asset.
+-	Challenges may arise in optimizing slicer usage for complex datasets or ensuring compatibility with different visualization types, presenting opportunities for innovation and improvement.
+
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Presentation Candidate
-- Peter Bamidele, is an experienced professional with a background in Condition monitoring and manufactiring preventive maintenance.
+- Peter Bamidele, a seasoned data analyst with expertise in Power BI and data visualization techniques, will lead the presentation.
 - With over 10 years of experience in the business, including proficiency in BI tools and machine learning,
-- I am well-equipped to deliver insights into equipment failure prediction and machine optimization.
+- Peter has a proven track record of leveraging advanced BI tools to deliver actionable insights and drive informed decision-making.
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Sample Data Selection
-- Sample data will be selected based on historical maintenance records, sensor data from equipment, and other relevant operational parameters.
-- Sources of sample data may include internal databases, IoT sensors, and publicly available datasets from research repositories.
-- The selected data will be representative of typical scenarios encountered in the industry, ensuring relevance and applicability to the demonstration.
+- Criteria for selecting sample data will focus on datasets that demonstrate the diverse applications of slicers across various industries and business scenarios.
+- Sample data sources may include sales data, customer demographics, product performance metrics, and financial KPIs, among others.
+- The relevance of the selected data to the demonstration lies in its ability to showcase the effectiveness of slicers in filtering, segmenting, and analyzing key metrics in real-time.
+
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Technical Technique Demonstration
-- The technical technique involves leveraging machine learning algorithms such as regression, classification, and anomaly detection to analyze historical data and predict equipment failures.
-- Steps for applying the technique to the sample data include data preprocessing, feature engineering, model training, and evaluation.
-- Expected outcomes include the identification of early indicators of equipment failure, optimized maintenance schedules, and improved overall equipment effectiveness (OEE).
+-	The demonstration will provide a comprehensive overview of slicers in Power BI, including their types, functionalities, and customization options.
+-	Step-by-step instructions will be provided for applying slicers to the sample data, demonstrating how to create dynamic filters, multi-select options, and customized layouts.
+-	Expected outcomes include enhanced data exploration capabilities, improved user engagement, and actionable insights derived from interactive dashboard visualizations.
+
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Implementation Plan
-- The preparation of the presentation will be completed within [timeline].
-- Resources required include access to relevant datasets, machine learning tools such as Python libraries (e.g., scikit-learn, TensorFlow), and presentation software.
-- Practice sessions and dry runs will be conducted to ensure smooth delivery and effective communication of the technical content.
+- A timeline for the preparation of the presentation will include script development, data preparation, dashboard design, and rehearsal sessions.
+- Resources required will include access to Power BI desktop or service, sample datasets, presentation software, and visual aids.
+- Practice sessions and dry runs will ensure seamless delivery and effective communication of key concepts to the audience.
+
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Conclusion
-- The presentation aims to demonstrate the practical application of machine learning in predictive maintenance and its potential to revolutionize maintenance strategies in various industries.
-- By adopting predictive maintenance techniques, organizations can reduce downtime, minimize maintenance costs, and enhance overall operational efficiency.
+- The presentation aims to highlight the practical benefits of incorporating slicers into Power BI dashboards, empowering users with enhanced data exploration and analysis capabilities.
+- Attendees will be encouraged to leverage slicers in their own BI projects, fostering a culture of data-driven decision-making and continuous improvement.
+
 
 ## <img src="https://github.com/Bampet2003/BampetCapstone/blob/main/bullet_arrow.png?raw=True" alt="Sized Rocket" width="25px" height="25px"> Appendices
-- References to technical literature and research papers on predictive maintenance and machine learning.
-- Links to resources for further reading, including online tutorials, case studies, and industry reports.
+- References to technical literature on Power BI slicers, including official documentation, tutorials, and case studies.
